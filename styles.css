@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: blue;
+    color: rgb(37, 91, 207);
   }
   
   /* Gaya umum untuk body */
@@ -177,7 +177,7 @@
     background: #fff;
     padding: 1rem;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(60, 102, 192, 0.1);
+    ox-shadow: 0 0 10px rgba(19, 84, 204, 0.1);
     margin: 1rem 0;
   }
   
@@ -339,6 +339,7 @@ nav ul li a {
 
 .gallery {
   padding: 20px;
+  color: #007BFF;
 }
 
 .filter-buttons {
@@ -349,7 +350,7 @@ nav ul li a {
   padding: 10px 15px;
   margin-right: 5px;
   cursor: pointer;
-  background: #333;
+  background: #3669b6;
   color: white;
   border: none;
   transition: background 0.3s;
